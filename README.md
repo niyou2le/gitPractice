@@ -1,2 +1,1 @@
-# gitPractice
-just practice git's commond
+### 就是一个拿来练习git命令的项目
